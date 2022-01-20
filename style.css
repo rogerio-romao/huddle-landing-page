@@ -13,6 +13,9 @@
 }
 
 /* --- STYLES --- */
+
+/* defaults  */
+
 * {
   box-sizing: border-box;
 }
@@ -49,8 +52,11 @@ button {
 }
 
 .space-top-4 {
+  /* utility class */
   margin-top: 4rem;
 }
+
+/* --- HEADER --- */
 
 nav {
   display: flex;
@@ -74,7 +80,7 @@ nav {
   font-size: 1.9rem;
 }
 
-.cta button {
+nav .cta button {
   color: var(--light-pink);
   border: 1px solid var(--light-pink);
   background: transparent;
@@ -83,9 +89,7 @@ nav {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
 }
 
-main {
-  padding: 10px;
-}
+/* --- HERO SECTION --- */
 
 .hero button:hover,
 .bottom-cta button:hover,
@@ -127,6 +131,8 @@ main {
   width: 100%;
 }
 
+/* hero stats  */
+
 .hero-stats {
   display: flex;
   flex-direction: row;
@@ -143,6 +149,8 @@ main {
 .hero-stats-small-p {
   color: var(--light-gray);
 }
+
+/* --- IMAGE & TEXT SECTIONS--- */
 
 .grow {
   margin-top: 3rem;
@@ -205,6 +213,8 @@ main {
   margin-bottom: 5rem;
 }
 
+/* --- FOOTER --- */
+
 .footer-left,
 .footer-right {
   max-width: 45%;
@@ -265,6 +275,8 @@ input[type='text'] {
   padding: 0;
   display: none;
 }
+
+/* --- MOBILE --- */
 
 @media (max-width: 375px) {
   header {

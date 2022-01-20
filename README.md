@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rogerio-romao/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source code](https://github.com/rogerio-romao/huddle-landing-page)
+- Live Site URL: [Live Site](https://rogerio-romao.github.io/huddle-landing-page)
 
 ## My process
 
@@ -96,4 +96,4 @@ I try to have better structure on my css in actual projects but I want to look m
 ## Author
 
 - Website - [Rogerio Romao](https://portfolio-v2-rogerio-romao.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rogerio-romao)
+- Frontend Mentor - [@my profile](https://www.frontendmentor.io/profile/rogerio-romao)
